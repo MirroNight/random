@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# gdb
+.gdbinit
+
 # don't need it
 algo738.f
 rand_stream.bin
