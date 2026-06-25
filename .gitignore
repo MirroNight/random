@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# don't need it
+algo738.f
+rand_stream.bin
+bin/
+backup/
+TestU01/
+pcg-c-0.94/
+phys-source/
+
